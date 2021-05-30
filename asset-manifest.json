@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-reads/static/css/main.db743235.chunk.css",
-    "main.js": "/my-reads/static/js/main.78b887f3.chunk.js",
-    "main.js.map": "/my-reads/static/js/main.78b887f3.chunk.js.map",
-    "runtime~main.js": "/my-reads/static/js/runtime~main.464cac55.js",
-    "runtime~main.js.map": "/my-reads/static/js/runtime~main.464cac55.js.map",
-    "static/js/2.51604405.chunk.js": "/my-reads/static/js/2.51604405.chunk.js",
-    "static/js/2.51604405.chunk.js.map": "/my-reads/static/js/2.51604405.chunk.js.map",
-    "index.html": "/my-reads/index.html",
-    "precache-manifest.ae6ebd5b189373ae981411f0ca02c1a2.js": "/my-reads/precache-manifest.ae6ebd5b189373ae981411f0ca02c1a2.js",
-    "service-worker.js": "/my-reads/service-worker.js",
-    "static/css/main.db743235.chunk.css.map": "/my-reads/static/css/main.db743235.chunk.css.map",
-    "static/media/App.css": "/my-reads/static/media/arrow-drop-down.78c6f53b.svg"
+    "main.css": "https://rolave.github.io/my-reads/static/css/main.ffdceec9.chunk.css",
+    "main.js": "https://rolave.github.io/my-reads/static/js/main.3cdfd438.chunk.js",
+    "main.js.map": "https://rolave.github.io/my-reads/static/js/main.3cdfd438.chunk.js.map",
+    "runtime~main.js": "https://rolave.github.io/my-reads/static/js/runtime~main.be9180f7.js",
+    "runtime~main.js.map": "https://rolave.github.io/my-reads/static/js/runtime~main.be9180f7.js.map",
+    "static/js/2.6a8cb563.chunk.js": "https://rolave.github.io/my-reads/static/js/2.6a8cb563.chunk.js",
+    "static/js/2.6a8cb563.chunk.js.map": "https://rolave.github.io/my-reads/static/js/2.6a8cb563.chunk.js.map",
+    "index.html": "https://rolave.github.io/my-reads/index.html",
+    "precache-manifest.13b7934eae3b00cf0f69cce61f76162d.js": "https://rolave.github.io/my-reads/precache-manifest.13b7934eae3b00cf0f69cce61f76162d.js",
+    "service-worker.js": "https://rolave.github.io/my-reads/service-worker.js",
+    "static/css/main.ffdceec9.chunk.css.map": "https://rolave.github.io/my-reads/static/css/main.ffdceec9.chunk.css.map",
+    "static/media/App.css": "https://rolave.github.io/my-reads/static/media/arrow-drop-down.78c6f53b.svg"
   }
 }
