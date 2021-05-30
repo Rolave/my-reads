@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "537133750952c7a6d5b94b2495075f23",
+    "revision": "934044a3eaee6d3199364e05de8b37b9",
     "url": "https://rolave.github.io/my-reads/index.html"
   },
   {
-    "revision": "b05ea2c37d55a73a505e",
+    "revision": "4421e96b882b4935f7c7",
     "url": "https://rolave.github.io/my-reads/static/css/main.ffdceec9.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://rolave.github.io/my-reads/static/js/2.6a8cb563.chunk.js"
   },
   {
-    "revision": "b05ea2c37d55a73a505e",
-    "url": "https://rolave.github.io/my-reads/static/js/main.3cdfd438.chunk.js"
+    "revision": "4421e96b882b4935f7c7",
+    "url": "https://rolave.github.io/my-reads/static/js/main.8107047c.chunk.js"
   },
   {
     "revision": "437ebd4cc652a33b31ed",
