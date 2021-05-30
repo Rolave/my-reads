@@ -15,7 +15,9 @@ const BooksState = (props) => {
 
   // Get All Books
   const getAllBooks = async () => {
-    const res = await BooksAPI.getAll();
+    const res = await BooksAPI.getAll().then((results) =>
+      results.sort((a, b) => (a.title > b.title ? 1 : -1))
+    );
 
     dispatch({
       type: GET_ALL_BOOKS,
@@ -35,9 +37,25 @@ const BooksState = (props) => {
 
   // Search Books
   const searchBooks = async (query) => {
-    const res = await BooksAPI.search(query).then((results) =>
-      Array.isArray(results) && results.length > 0 ? results : []
-    );
+    const res = await BooksAPI.search(query).then((results) => {
+      const filteredShelvedBooks = state.books.filter((book) =>
+        book.title.toLowerCase().startsWith(query.toLowerCase())
+      );
+      const getUpdatedresults = () =>
+        results
+          .filter(
+            (result) =>
+              !filteredShelvedBooks.some(
+                (shelvedBook) => result.id === shelvedBook.id
+              )
+          )
+          .concat(filteredShelvedBooks)
+          .sort((a, b) => (a.title > b.title ? 1 : -1));
+
+      return Array.isArray(results) && results.length > 0
+        ? getUpdatedresults()
+        : [];
+    });
 
     dispatch({
       type: SEARCH_BOOKS,
