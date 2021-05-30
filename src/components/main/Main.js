@@ -1,4 +1,4 @@
-import React, { useContext, useEffect } from 'react';
+import React, { useContext } from 'react';
 import { Link } from 'react-router-dom';
 import Header from './Header';
 import BooksContext from '../../context/booksContext';
@@ -6,11 +6,7 @@ import Bookshelf from '../book/Bookshelf';
 
 const Main = () => {
   const booksContext = useContext(BooksContext);
-  const { books, getAllBooks } = booksContext;
-
-  useEffect(() => {
-    getAllBooks();
-  }, []);
+  const { books } = booksContext;
 
   return (
     <>

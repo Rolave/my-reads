@@ -1,4 +1,4 @@
-import React, { useReducer } from 'react';
+import React, { useReducer, useEffect } from 'react';
 import * as BooksAPI from '../BooksAPI';
 import BooksContext from './booksContext';
 import BooksReducer from './booksReducer';
@@ -56,6 +56,10 @@ const BooksState = (props) => {
       payload: res,
     });
   };
+
+  useEffect(() => {
+    getAllBooks();
+  }, []);
 
   return (
     <BooksContext.Provider
