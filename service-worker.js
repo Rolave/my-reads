@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://rolave.github.io/my-reads/precache-manifest.b33aeb6c0d134bfba568ae7eb577989d.js"
+  "https://rolave.github.io/my-reads/precache-manifest.efb857ab407dae73a9dc50519944fda3.js"
 );
 
 self.addEventListener('message', (event) => {

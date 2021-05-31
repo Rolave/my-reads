@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "934044a3eaee6d3199364e05de8b37b9",
+    "revision": "02fc531dcd59e776cceaae2c2fa949cf",
     "url": "https://rolave.github.io/my-reads/index.html"
   },
   {
-    "revision": "4421e96b882b4935f7c7",
+    "revision": "bf1252c41e3800908bbc",
     "url": "https://rolave.github.io/my-reads/static/css/main.ffdceec9.chunk.css"
   },
   {
-    "revision": "be334550635f2ab6783b",
-    "url": "https://rolave.github.io/my-reads/static/js/2.6a8cb563.chunk.js"
+    "revision": "387979440bbc6944d1b8",
+    "url": "https://rolave.github.io/my-reads/static/js/2.51604405.chunk.js"
   },
   {
-    "revision": "4421e96b882b4935f7c7",
-    "url": "https://rolave.github.io/my-reads/static/js/main.8107047c.chunk.js"
+    "revision": "bf1252c41e3800908bbc",
+    "url": "https://rolave.github.io/my-reads/static/js/main.e21898b1.chunk.js"
   },
   {
     "revision": "437ebd4cc652a33b31ed",

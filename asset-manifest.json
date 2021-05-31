@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://rolave.github.io/my-reads/static/css/main.ffdceec9.chunk.css",
-    "main.js": "https://rolave.github.io/my-reads/static/js/main.8107047c.chunk.js",
-    "main.js.map": "https://rolave.github.io/my-reads/static/js/main.8107047c.chunk.js.map",
+    "main.js": "https://rolave.github.io/my-reads/static/js/main.e21898b1.chunk.js",
+    "main.js.map": "https://rolave.github.io/my-reads/static/js/main.e21898b1.chunk.js.map",
     "runtime~main.js": "https://rolave.github.io/my-reads/static/js/runtime~main.be9180f7.js",
     "runtime~main.js.map": "https://rolave.github.io/my-reads/static/js/runtime~main.be9180f7.js.map",
-    "static/js/2.6a8cb563.chunk.js": "https://rolave.github.io/my-reads/static/js/2.6a8cb563.chunk.js",
-    "static/js/2.6a8cb563.chunk.js.map": "https://rolave.github.io/my-reads/static/js/2.6a8cb563.chunk.js.map",
+    "static/js/2.51604405.chunk.js": "https://rolave.github.io/my-reads/static/js/2.51604405.chunk.js",
+    "static/js/2.51604405.chunk.js.map": "https://rolave.github.io/my-reads/static/js/2.51604405.chunk.js.map",
     "index.html": "https://rolave.github.io/my-reads/index.html",
-    "precache-manifest.b33aeb6c0d134bfba568ae7eb577989d.js": "https://rolave.github.io/my-reads/precache-manifest.b33aeb6c0d134bfba568ae7eb577989d.js",
+    "precache-manifest.efb857ab407dae73a9dc50519944fda3.js": "https://rolave.github.io/my-reads/precache-manifest.efb857ab407dae73a9dc50519944fda3.js",
     "service-worker.js": "https://rolave.github.io/my-reads/service-worker.js",
     "static/css/main.ffdceec9.chunk.css.map": "https://rolave.github.io/my-reads/static/css/main.ffdceec9.chunk.css.map",
     "static/media/App.css": "https://rolave.github.io/my-reads/static/media/arrow-drop-down.78c6f53b.svg"
